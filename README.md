@@ -3,7 +3,10 @@
 ```
 {
   data:
-    {encoding: str}
+    {encoding: str
+     nonce: <nonce> // optional
+     contentType: 'application/json' // optional, only relates to buffer encodings
+    }
   from:
     data: {encoding: str}
   to: // optional, when supplied contents are signed.
