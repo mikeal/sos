@@ -1,6 +1,6 @@
 {
   "name": "sos",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "index.js",
   "dependencies": {
     "sodi": "^0.3.0"
