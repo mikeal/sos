@@ -1,5 +1,7 @@
 # SOS -- Secure Object Standard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/sos.svg)](https://greenkeeper.io/)
+
 ```
 {
   data:
